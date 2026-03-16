@@ -1,4 +1,4 @@
-from locounter import count_lines
+from locounter import count_lines_of_code
 
 if __name__ == '__main__':
-    print(count_lines("../dummyscript.py"))
+    print(count_lines_of_code("../dummyscript.py"))
